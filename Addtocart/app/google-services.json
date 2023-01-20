@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433271322843",
+    "project_id": "cart-e30c0",
+    "storage_bucket": "cart-e30c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433271322843:android:b3c74ad2068c0dd5fab4fe",
+        "android_client_info": {
+          "package_name": "com.vineet.addtocart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433271322843-tcdh6672vupsuifj8vple1ue0isksa33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQuBi7bih5kSkC59Ve0U-n0quvj4whLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433271322843-tcdh6672vupsuifj8vple1ue0isksa33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
